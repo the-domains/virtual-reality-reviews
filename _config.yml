@@ -1,0 +1,28 @@
+name: Virtual Reality Reviews
+favicon: null
+layout_spectrum: 0.10685473820194602
+typography_spectrum: 0.614287500968203
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3728744743857533
+  lightness: 0.9027596900705248
+  saturation: 0.7885155996773392
+  rhythmicContrast: 0.14106497773900628
+purpose: []
